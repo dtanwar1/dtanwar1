@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! 
 
 <!--
 **dtanwar1/dtanwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Deepak Tanwar, a passionate Software Engineer.💻 I enjoy diving deep into code, crafting elegant solutions, and pushing the boundaries of what's possible. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee. Let's connect and build something awesome together!
