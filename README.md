@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm Deepak Tanwar, a passionate Software Engineer.💻 I enjoy diving deep into code, crafting elegant solutions, and pushing the boundaries of what's possible. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee. Let's connect and build something awesome together!
 
-## Skills
+#### Skills
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,angular,html,css,java,androidstudio,aws)](https://skillicons.dev)
