@@ -19,4 +19,4 @@ I'm Deepak Tanwar, a passionate Software Engineer.💻 I enjoy diving deep into 
 - 📫 You can reach out to me on [LinkedIn](www.linkedin.com/in/tanwar-deepak)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,angular,html,css,java,androidstudio,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,angular,html,css,java,androidstudio,aws,spring)](https://skillicons.dev)
