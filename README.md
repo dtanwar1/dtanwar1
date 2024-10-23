@@ -23,3 +23,4 @@ I'm Deepak Tanwar, a passionate Software Engineer.💻 I enjoy diving deep into 
 
 
 ![](https://leetcard.tanwardeepak/lapor?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/tanwardeepak/)
