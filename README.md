@@ -22,6 +22,5 @@ I'm Deepak Tanwar, a passionate Software Engineer.💻 I enjoy diving deep into 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,angular,html,css,java,androidstudio,aws,spring)](https://skillicons.dev)
 
 
-![](https://leetcard.tanwardeepak/lapor?ext=heatmap)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/tanwardeepak)](https://leetcode.com/u/tanwardeepak/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tanwardeepak?ext=heatmap)](https://leetcode.com/u/tanwardeepak/)
 
